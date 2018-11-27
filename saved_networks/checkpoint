@@ -1,0 +1,6 @@
+model_checkpoint_path: "BIRD-430000"
+all_model_checkpoint_paths: "BIRD-390000"
+all_model_checkpoint_paths: "BIRD-400000"
+all_model_checkpoint_paths: "BIRD-410000"
+all_model_checkpoint_paths: "BIRD-420000"
+all_model_checkpoint_paths: "BIRD-430000"
